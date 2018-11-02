@@ -5,3 +5,13 @@ img {
 p {
 color: black;
 }
+div {
+    border: 1px solid black;
+    margin: auto;
+	width: 700px;
+    background-color: lightgray;
+	     padding-top: 10px;
+    padding-right: 100px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
