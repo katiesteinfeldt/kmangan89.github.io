@@ -4,6 +4,13 @@ img {
 }
 p {
 color: black;
-}
-body {background-image: url("https://images.pexels.com/photos/953214/pexels-photo-953214.jpeg?auto=compress&cs=tinysrgb&h=350");
-}
+div {
+    border: 1px solid black;
+    margin: auto;
+	width: 700px;
+    background-color: lightgray;
+	     padding-top: 10px;
+    padding-right: 100px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    }
